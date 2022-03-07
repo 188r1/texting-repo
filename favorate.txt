@@ -1,3 +1,9 @@
+movies
 1.bahuballi
 2.shyam singa roy
 3.pushpa
+foods
+1.pallak
+2.sambar
+3.chicken
+
